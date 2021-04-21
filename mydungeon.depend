@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1618914965 source:c:\users\ur\desktop\mydungeon\object.cpp
+	<iostream>
+	"object.h"
+
+1618914965 c:\users\ur\desktop\mydungeon\object.h
+	<iostream>
+
+1618912702 source:c:\users\ur\desktop\mydungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1618912633 c:\users\ur\desktop\mydungeon\gamecharacter.h
+	<iostream>
+	"object.h"
+
+1618930621 source:c:\users\ur\desktop\mydungeon\main.cpp
+	<iostream>
+	"Dungeon.h"
+
+1618993205 c:\users\ur\desktop\mydungeon\dungeon.h
+	<iostream>
+	<fstream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"Room.h"
+	"object.h"
+	"Player.h"
+	"GameCharacter.h"
+	"Monster.h"
+	"NPC.h"
+
+1618994024 c:\users\ur\desktop\mydungeon\room.h
+	<iostream>
+	<vector>
+	"object.h"
+	"item.h"
+	<cstdlib>
+
+1618990862 c:\users\ur\desktop\mydungeon\player.h
+	<iostream>
+	<vector>
+	"item.h"
+	"GameCharacter.h"
+	"Room.h"
+
+1618923877 c:\users\ur\desktop\mydungeon\item.h
+	<iostream>
+	"object.h"
+
+1618923975 source:c:\users\ur\desktop\mydungeon\item.cpp
+	"item.h"
+
+1618993898 source:c:\users\ur\desktop\mydungeon\npc.cpp
+	"NPC.h"
+
+1618993339 c:\users\ur\desktop\mydungeon\npc.h
+	<iostream>
+	<vector>
+	"item.h"
+	"GameCharacter.h"
+	"object.h"
+	"Player.h"
+
+1618990439 source:c:\users\ur\desktop\mydungeon\monster.cpp
+	"Monster.h"
+
+1618990439 c:\users\ur\desktop\mydungeon\monster.h
+	<iostream>
+	"GameCharacter.h"
+	"object.h"
+	"Player.h"
+
+1618998726 source:c:\users\ur\desktop\mydungeon\dungeon.cpp
+	"Dungeon.h"
+
+1618998728 source:c:\users\ur\desktop\mydungeon\room.cpp
+	"Room.h"
+	"Monster.h"
+	"NPC.h"
+
+1618915547 source:c:\users\ur\desktop\mydungeon\player.cpp
+	"Player.h"
+
